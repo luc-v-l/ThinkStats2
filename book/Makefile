@@ -18,7 +18,7 @@ hevea:
 	imagen -png thinkstats2
 	hacha thinkstats2.html
 	cp up.png next.png back.png html
-	mv index.html thinkstats2.css thinkstats2*.html thinkstats2*.png *motif.gif html
+	mv index.html thinkstats2.css thinkstats2*.html thinkstats2*.png *motif.svg html
 
 DEST = /home/downey/public_html/greent/thinkstats2
 
